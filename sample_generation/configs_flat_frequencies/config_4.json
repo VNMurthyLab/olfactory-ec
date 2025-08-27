@@ -1,0 +1,15 @@
+{
+  "seed": 1,
+  "N": 1000,
+  "block_number": 4,
+  "gamma_shape": 0.15,
+  "gamma_scale": 0.03,
+  "gamma_loc": 0.001,
+  "lambda_value": 0.75,
+  "balanced_means": true,
+  "samples": 1000000,
+  "cov_scale": 1.0,
+  "thinning_parameter": 1,
+  "output_dir": "{{DATA_DIR}}/constant_frequencies",
+  "mean_parameter": 0.002
+}

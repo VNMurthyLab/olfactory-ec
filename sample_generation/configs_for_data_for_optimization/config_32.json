@@ -1,0 +1,14 @@
+{
+    "seed": 1,
+    "N": 1000,
+    "block_number": 32,
+    "gamma_shape": 0.15,
+    "gamma_scale": 0.03,
+    "gamma_loc": 0.001,
+    "lambda_value": 1,
+    "balanced_means": false,
+    "samples": 1000000,
+    "cov_scale": 1.0,
+    "thinning_parameter": 1,
+    "output_dir": "{{DATA_DIR}}/data_for_optimization"
+}
