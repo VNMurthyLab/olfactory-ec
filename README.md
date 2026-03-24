@@ -5,6 +5,7 @@ For details, please see [our paper](https://www.pnas.org/doi/10.1073/pnas.252466
 
 ```
 @article{fernandezdelcastillo2026convergent,
+	author = {Fern{\'a}ndez del Castillo, Juan Carlos and Pashakhanloo, Farhad and Murthy, Venkatesh N and Zavatone-Veth, Jacob A},
 	journal = {Proceedings of the National Academy of Sciences},
 	volume = {123},
 	number = {13},
